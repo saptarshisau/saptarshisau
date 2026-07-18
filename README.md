@@ -12,7 +12,7 @@ Aspiring Software Engineer with experience in full-stack web development and com
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=saptarshisau&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <div align="center">
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/saptarshisau/saptarshisau/blob/output/github-snake-dark.svg)
 </div>
 
 ## 🌐 Socials:
